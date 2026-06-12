@@ -1,14 +1,21 @@
-# SQL Kurs
+# Kurs Microsoft SQL Server
 
-Projekt zespołowy z Systemów Wspomagania Pracy Zespołowej.
+Projekt realizowany w ramach przedmiotu Systemy Wspomagania Pracy Zespołowej.
 
-## O projekcie
-Ten projekt zawiera kurs SQL wraz z teorią i przykładami zapytań.
+## Cel projektu
 
-## Zawartość
-- Podstawy SQL
-- Przykłady zapytań
-- Instrukcje i teoria
+Celem projektu jest przedstawienie podstaw języka SQL oraz systemu Microsoft SQL Server.
 
-## Autorzy
-Zespół 2-osobowy
+## Zakres kursu
+
+- Podstawy baz danych
+- Microsoft SQL Server
+- Zapytania SELECT
+- INSERT, UPDATE i DELETE
+- Łączenie tabel (JOIN)
+- Funkcje SQL
+- Ćwiczenia praktyczne
+
+## Dlaczego SQL Server?
+
+Microsoft SQL Server jest jednym z najpopularniejszych systemów zarządzania relacyjnymi bazami danych wykorzystywanym w przedsiębiorstwach, administracji oraz aplikacjach biznesowych.
