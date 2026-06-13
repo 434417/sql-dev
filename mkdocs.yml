@@ -2,25 +2,15 @@ site_name: Kurs Microsoft SQL Server
 
 theme:
   name: material
-  palette:
-    - scheme: default
-      primary: purple
-      toggle:
-        icon: material/weather-night
-        name: Dark mode
+  language: pl
 
-    - scheme: slate
-      primary: purple
-      toggle:
-        icon: material/weather-sunny
-        name: Light mode
 nav:
   - Strona główna: index.md
   - Autorzy: authors.md
   - Teoria: theory.md
   - Microsoft SQL Server: mssql.md
   - SELECT: select.md
-  - INSERT UPDATE DELETE: insert-update-delete.md
+  - INSERT, UPDATE, DELETE: insert-update-delete.md
   - JOIN: joins.md
   - Funkcje SQL: functions.md
   - Ćwiczenia: exercises.md
