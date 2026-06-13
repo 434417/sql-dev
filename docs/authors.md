@@ -1,70 +1,65 @@
-##### \## Kierownik projektu
-
-\*\*Kamila Węglarz\*\*
+# Podział obowiązków w projekcie
 
 
-
-\### Zakres obowiązków
-
-\- konfiguracja projektu MkDocs,
-
-\- zarządzanie repozytorium GitHub,
-
-\- przygotowanie strony głównej kursu,
-
-\- opracowanie rozdziału „Microsoft SQL Server”,
-
-\- przygotowanie rozdziału dotyczącego instrukcji JOIN,
-
-\- nadzór nad spójnością projektu i poprawnością dokumentacji.
+## Kierownik projektu – Kamila Węglarz
 
 
 
-\---
+### Zakres obowiązków
 
 
 
-##### \## Członek zespołu
+- Konfiguracja projektu MkDocs
 
-\*\*Szymon Pierz\*\*
+- Zarządzanie repozytorium GitHub
 
+- Przygotowanie struktury kursu
 
+- Przygotowanie strony głównej kursu
 
-\### Zakres obowiązków
+- Opracowanie rozdziału Microsoft SQL Server
 
-\- opracowanie teorii dotyczącej języka SQL,
-
-\- przygotowanie rozdziału dotyczącego instrukcji SELECT,
-
-\- opracowanie rozdziału INSERT, UPDATE oraz DELETE,
-
-\- przygotowanie przykładów zapytań SQL,
-
-\- testowanie działania strony i weryfikacja poprawności treści.
+- Przygotowanie rozdziału dotyczącego instrukcji JOIN
 
 
 
-\---
+## Członek zespołu – Szymon Pierz
 
 
 
-\## Wspólna praca
+### Zakres obowiązków
 
 
 
-Obie osoby uczestniczyły w:
+- Opracowanie części teoretycznej dotyczącej języka SQL
 
-\- przygotowaniu struktury kursu,
+- Przygotowanie rozdziału dotyczącego instrukcji SELECT
 
-\- tworzeniu i redagowaniu dokumentacji,
+- Opracowanie rozdziałów dotyczących instrukcji INSERT, UPDATE oraz DELETE
 
-\- opracowaniu funkcji SQL,
+- Przygotowanie przykładów zapytań SQL
 
-\- przygotowaniu ćwiczeń praktycznych,
+- Testowanie działania strony oraz weryfikacja poprawności treści
 
-\- tworzeniu podsumowania kursu,
 
-\- testowaniu działania projektu przy użyciu MkDocs,
 
-\- wspólnej pracy nad repozytorium GitHub.
+## Wspólna praca
+
+
+
+Oboje członkowie zespołu uczestniczyli w:
+
+
+
+- Tworzeniu i redagowaniu dokumentacji
+
+- Opracowaniu funkcji SQL
+
+- Przygotowaniu ćwiczeń praktycznych
+
+- Stworzeniu podsumowania kursu
+
+- Testowaniu działania projektu przy użyciu MkDocs
+
+- Wspólnej pracy nad repozytorium GitHub
 
