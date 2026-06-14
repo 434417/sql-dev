@@ -83,6 +83,18 @@ JOIN Zamowienia z
 ON k.ID = z.KlientID;
 
 ```
+## Przykład praktyczny – analiza danych
+
+JOIN jest często używany w raportach, np. do sprawdzenia, ilu pracowników pracuje w poszczególnych działach.
+
+```sql
+SELECT d.Nazwa AS Dzial, COUNT(p.ID) AS LiczbaPracownikow
+FROM Dzialy d
+LEFT JOIN Pracownicy p
+ON d.ID = p.DzialID
+GROUP BY d.Nazwa;
+
+```
 ## Podsumowanie
 
 JOIN pozwala łączyć dane z wielu tabel na podstawie wspólnych kolumn.
