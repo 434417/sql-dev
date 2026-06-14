@@ -1,6 +1,6 @@
 # Instrukcja SELECT
 
-Instrukcja `SELECT` służy do pobierania danych z tabeli. Jest jedną z najczęściej używanych instrukcji w języku SQL.Główna różnica pomiędzy SELECT a innymi instrukcjami w SQL polega na tym, że SELECT nie modyfikuje, nie dodaje ani nie usuwa danych w bazie – służy wyłącznie do ich odczytu i analizy
+Instrukcja `SELECT` służy do pobierania danych z tabeli. Jest jedną z najczęściej używanych instrukcji w języku SQL. Główna różnica pomiędzy SELECT a innymi instrukcjami w SQL polega na tym, że SELECT nie modyfikuje, nie dodaje ani nie usuwa danych w bazie – służy wyłącznie do ich odczytu i analizy
 
 ## Pobranie wszystkich danych
 
