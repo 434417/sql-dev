@@ -46,6 +46,8 @@ VALUES
 6. Usuń pracownika o identyfikatorze `5`.
 7. Połącz tabelę `Pracownicy` z tabelą `Dzialy` i wyświetl nazwę działu.
 8. Policz liczbę pracowników w każdym dziale.
+9. Wyświetl nazwę działu oraz najwyżej zarabiającego pracownika w każdym dziale.
+
 
 ## Przykładowe rozwiązania
 
@@ -95,4 +97,13 @@ FROM Dzialy AS d
 LEFT JOIN Pracownicy AS p
     ON d.ID = p.DzialID
 GROUP BY d.Nazwa;
+```
+
+```sql
+SELECT Imie, Nazwisko, Pensja
+FROM Pracownicy
+WHERE Pensja > (
+    SELECT AVG(Pensja)
+    FROM Pracownicy
+);
 ```
