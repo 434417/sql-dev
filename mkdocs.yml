@@ -20,7 +20,7 @@ nav:
   - Wstęp: theory.md
   - Microsoft SQL Server: mssql.md
   - SELECT: select.md
-  - INSERT UPDATE DELETE: insert-update-delete.md
+  - INSERT UPDATE DELETE: instertupdatedelete.md
   - JOIN: joins.md
   - Funkcje SQL: functions.md
   - Ćwiczenia: exercises.md
