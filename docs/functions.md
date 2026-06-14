@@ -13,6 +13,7 @@ Funkcje agregujące zwracają jeden wynik dla grupy rekordów.
 | `AVG()` | oblicza średnią |
 | `MIN()` | zwraca najmniejszą wartość |
 | `MAX()` | zwraca największą wartość |
+| `GROUP BY` + `HAVING` | grupuje dane i filtruje grupy |
 
 Przykłady:
 
